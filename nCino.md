@@ -90,7 +90,7 @@ regulatory compliance across a financial institution.
     operational data and create a paperless centralized data hub that
     enhances data-driven decision-making.
 
-> ![Services](C:\Users\munir\Desktop\Assignments\Assignment\Picture1.jpg)
+> ![Services](https://user-images.githubusercontent.com/74801986/101286900-360a7880-37bb-11eb-8739-9b1ab7a031be.jpg)
 
 -   Competitive Advantage
 
@@ -158,7 +158,7 @@ regulatory compliance across a financial institution.
 > automated mobile-workforce-management and service-optimization
 > solutions.
 
-  >![Technology Platform](C:\Users\munir\Desktop\Assignments\Assignment\Picture3.jpg)
+  >![Technology Platform](https://user-images.githubusercontent.com/74801986/101286905-3d318680-37bb-11eb-8e34-d1ae2ec14dd1.jpg)
  
 > Open architecture of the nCino operating system using SI allows number
 > of third-party technology partners, including DocuSign, Equifax,
@@ -241,7 +241,7 @@ be all the more really information driven associations.
 > review, 60% to 80% of worldwide banks said they wanted to expand
 > interest in cloud innovation throughout the following three years.
 
-![Industry Transformation](C:\Users\munir\Desktop\Assignments\Assignment\Picture4.jpg)
+![Industry Transformation](https://user-images.githubusercontent.com/74801986/101286906-3dca1d00-37bb-11eb-9762-aa5d7ac7e45f.jpg)
 
 -   Financial Institutions Face Increased Regulatory Scrutiny
 
@@ -262,7 +262,7 @@ be all the more really information driven associations.
 > measures, improve perceivability, facilitate the weight of
 > administrative tests and eventually lessen consistence costs.
  
- > ![Industry Regulation](C:\Users\munir\Desktop\Assignments\Assignment\Picture5.jpg)
+ > ![Industry Regulation](https://user-images.githubusercontent.com/74801986/101286907-3dca1d00-37bb-11eb-9818-2e67bcff1755.jpg)
 
 -   Major trends in that industry focusing on automation and data-driven
     banking
@@ -304,7 +304,7 @@ be all the more really information driven associations.
     will allow banks to save 20% to 25% across IT operations,
     infrastructure, maintenance and operations.
 
-> ![Task for ML/AI](C:\Users\munir\Desktop\Assignments\Assignment\Picture6.jpg)
+> ![Task for ML/AI](https://user-images.githubusercontent.com/74801986/101286908-3dca1d00-37bb-11eb-81b6-b51848ec0444.jpg)
 
 -   Competition
 
@@ -390,7 +390,7 @@ platforms:
 -   Plaid, a fintech company providing API technology layer for
     financial services that has been acquired by Visa in January 2020.
 
-![Finteh in Financial services](C:\Users\munir\Desktop\Assignments\Assignment\Picture7.jpg)
+![Finteh in Financial services](https://user-images.githubusercontent.com/74801986/101286909-3dca1d00-37bb-11eb-9513-f18b5790e640.jpg)
 
 Key risk being faced by nCino digital banking platform:
 
