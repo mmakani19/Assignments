@@ -1,4 +1,4 @@
-![Logo, company name Description automatically generated](media/image1.png){width="0.875in" height="0.72208552055993in"}
+![Logo](C:\Users\munir\Desktop\Assignments\Assignment\Picture0.jpg)
 ========================================================================================================================
 
 **Overview and Origin**
@@ -28,28 +28,27 @@
 -   In 2013, nCino raised \$9 million from a group of investors that
     included former Morgan Stanley Chairman and CEO John Mack,
     Promontory Financial Group CEO Eugene Ludwig, and [Live Oak
-    Bank](https://en.wikipedia.org/wiki/Live_Oak_Bank) Chairman and CEO
+    Bank] Chairman and CEO
     Chip Mahan; followed by Series A investment, a \$10 million round a
     year later , from Wellington Management Company LLP. In February
     2015, nCino secured \$29 million in a Series B Financing, led
     by [Insight Venture
-    Partners](https://en.wikipedia.org/wiki/Insight_Venture_Partners) .
+    Partners].
     A \$51 million Series C round of venture funding was led by
     Salesforce Ventures in 2018. The company closed its Series D round
     of funding In October 2019, with a raise of \$80 million, led by [T.
-    Rowe Price Associates,
-    Inc.](https://en.wikipedia.org/wiki/T._Rowe_Price) Existing
+    Rowe Price Associates. Existing
     investor, Salesforce Ventures, also participated in the Series D
     round.
 
-nCino went public with listing on Nasdaq on July 2020 and raised USD250
-million in IPO reaching market capitalization of USD \$6.5bn.
-nCino** **(NASDAQ: NCNO). Offered price of \$31/ share and opening price
-at \$71/share.
+> nCino went public with listing on Nasdaq on July 2020 and raised USD250
+> million in IPO reaching market capitalization of USD \$6.5bn.
+> nCino** **(NASDAQ: NCNO). Offered price of \$31/ share and opening price
+> at \$71/share.
 
-In Oct 2020, secondary public offering by existing shareholders raised
-at \$72/ share to raise USD483 million in shareholders dilution by
-existing shareholders.
+> In Oct 2020, secondary public offering by existing shareholders raised
+> at \$72/ share to raise USD483 million in shareholders dilution by
+> existing shareholders.
 
 **Business Activities**
 -----------------------
@@ -91,15 +90,10 @@ regulatory compliance across a financial institution.
     operational data and create a paperless centralized data hub that
     enhances data-driven decision-making.
 
-> ![A picture containing diagram Description automatically
-> generated](media/image2.jpg){width="5.055831146106737in"
-> height="3.36875in"}
+> ![Services](C:\Users\munir\Desktop\Assignments\Assignment\Picture1.jpg)
 
 -   Competitive Advantage
 
-```{=html}
-<!-- -->
-```
 -   Cloud Banking Technology Pioneer and Market Leader. The nCino Bank
     Operating System was developed from inception as a native cloud
     application to digitally transform financial institutions.
@@ -123,21 +117,15 @@ regulatory compliance across a financial institution.
     on more value-add activities, and employs predictive analytics to
     enable customers to make real time informed decisions.
 
-```{=html}
-<!-- -->
-```
 -   Target Market
 
-```{=html}
-<!-- -->
-```
 -   Existing Customers:
 
 > Business model is to expand within existing customer base both
 > vertically within business lines and horizontally across business
 > lines. Revenues from existing customers continue to grow as additional
 > users are added, creating strong customer cohort dynamics.
->
+ 
 > Major customers include, Bank of America, Barclays, Santander Bank and
 > TD Bank, KeyBank, Allied Irish Bank, Truist Bank, US Bank, ConnectOne
 > Bank, IBERIANBANK, Pacific Western Bank, Coastal States Bank, Corning
@@ -160,18 +148,18 @@ regulatory compliance across a financial institution.
 
 -   Technology Platform
 
-Base technology include that is provided through Salesforce platform
-namely **Heroku** for Sales Cloud, Marketing Cloud, B2C Commerce Cloud,
-Service Cloud, Community Cloud, Analytics Cloud. Data applications for
-CRM platform from **data.com**. **Datorama** for AI powered market
-intelligence. **Evergage** for personalised marketing. **Tableau** for
-data visualization, **Pardot** for marketing automation, **MuleSoft**
-for cross-platform integration; **ClickSoftware** for providing
-automated mobile-workforce-management and service-optimization
-solutions.
+> Base technology include that is provided through Salesforce platform
+> namely **Heroku** for Sales Cloud, Marketing Cloud, B2C Commerce Cloud,
+> Service Cloud, Community Cloud, Analytics Cloud. Data applications for
+> CRM platform from **data.com**. **Datorama** for AI powered market
+> intelligence. **Evergage** for personalised marketing. **Tableau** for
+> data visualization, **Pardot** for marketing automation, **MuleSoft**
+> for cross-platform integration; **ClickSoftware** for providing
+> automated mobile-workforce-management and service-optimization
+> solutions.
 
-> ![](media/image3.png){width="2.0625in" height="2.5in"}
->
+  >![Technology Platform](C:\Users\munir\Desktop\Assignments\Assignment\Picture3.jpg)
+ 
 > Open architecture of the nCino operating system using SI allows number
 > of third-party technology partners, including DocuSign, Equifax,
 > Experian, TransUnion, IDology, LexisNexis, OneSpan and The Risk
@@ -179,14 +167,14 @@ solutions.
 >
 > nCino acquired Visible Equity and FinSuite to integrate in their
 > proprietary nIQ platform capabilities.
->
+
 > Opportunities for innovation are provided through hackathons and new
 > technology pilots that utilize Agile software development
 > methodologies and industry best practices, such as continuous
 > integration/continuous deployment, automated testing and distributed
 > version control, to develop new functionality and enhance our existing
 > solution
->
+
 > Automation predictive analysis is carried out using Python, SQL, NO
 > SQL, Node.JS for AI, ML, Robotic Process Automation and chatbots.
 
@@ -195,12 +183,12 @@ solutions.
 
 -   Financial Services Industry
 
-With in excess of 28,000 monetary organizations around the world,
-banking is one of the biggest and most complex businesses in the
-worldwide economy and is described by serious rivalry between
-officeholder monetary foundations and Fintechs entering banking space.
-The serious scene under high administrative oversight present a defense
-for information driven dynamic and mechanization.
+> With in excess of 28,000 monetary organizations around the world,
+> banking is one of the biggest and most complex businesses in the
+> worldwide economy and is described by serious rivalry between
+> officeholder monetary foundations and Fintechs entering banking space.
+> The serious scene under high administrative oversight present a defense
+> for information driven dynamic and mechanization.
 
 Besides, web-based media, portable infiltration and online business are
 moving monetary foundations to draw in with customers and workers all
@@ -217,13 +205,13 @@ be all the more really information driven associations.
 > Customer hopes to associate with a monetary establishment in a
 > intelligent manners where connection is smooth, predictable and esteem
 > added across banking channels.
->
+
 > As per a 2019 PwC study, there has been a 21% expansion since 2015 in
 > customers who utilize monetary foundations that place more
 > significance on experiential elements than loan fees. Moreover, this
 > overview takes note of that 35% of customers pick their monetary
 > establishment dependent on usability and customer administration.
->
+ 
 > Monetary establishments, which have truly expected customers to adjust
 > to the organization\'s working structure, should progressively adjust
 > their working structures to the requirements of their customers. This
@@ -252,10 +240,8 @@ be all the more really information driven associations.
 > activities is getting progressively significant. In the 2018 EY
 > review, 60% to 80% of worldwide banks said they wanted to expand
 > interest in cloud innovation throughout the following three years.
->
-> ![Diagram Description automatically
-> generated](media/image4.png){width="3.857600612423447in"
-> height="2.1793799212598426in"}
+
+![Industry Transformation](C:\Users\munir\Desktop\Assignments\Assignment\Picture4.jpg)
 
 -   Financial Institutions Face Increased Regulatory Scrutiny
 
@@ -270,21 +256,17 @@ be all the more really information driven associations.
 > Thomson Reuters report, consistence costs for monetary organizations
 > have expanded 13% year-over-year since 2017 and the expense of
 > rebelliousness can be material.
->
+ 
 > The shade of this and other guideline is driving expanded interest for
 > innovation answers for assist monetary organizations with normalizing
 > measures, improve perceivability, facilitate the weight of
 > administrative tests and eventually lessen consistence costs.
->
-> ![](media/image5.png){width="3.6307688101487314in"
-> height="2.800269028871391in"}
+ 
+ > ![Industry Regulation](C:\Users\munir\Desktop\Assignments\Assignment\Picture5.jpg)
 
 -   Major trends in that industry focusing on automation and data-driven
     banking
 
-```{=html}
-<!-- -->
-```
 -   Automation. Financial institutions are marrying digital technologies
     and data to modernize and automate what were traditionally manual
     processes. The automation opportunity is an institution-wide mandate
@@ -322,8 +304,7 @@ be all the more really information driven associations.
     will allow banks to save 20% to 25% across IT operations,
     infrastructure, maintenance and operations.
 
-> ![](media/image6.png){width="5.304166666666666in"
-> height="3.3291666666666666in"}
+> ![Task for ML/AI](C:\Users\munir\Desktop\Assignments\Assignment\Picture6.jpg)
 
 -   Competition
 
@@ -332,7 +313,7 @@ be all the more really information driven associations.
 > financial institutions. nCino marks their core banking system
 > platform, deep banking domain expertise, professional service
 > standards, and customer support distinguish it from its competition.
->
+
 > Likely success factors include:
 
 -   breadth and depth of functionality in its platform,
@@ -353,7 +334,7 @@ be all the more really information driven associations.
 -   ability to integrate with third-party applications and systems.
 
 > Key competitors include the following who offer digital banking
-> platforms:
+platforms:
 
 -   Kabbage. Re-branding itself as Kabbage Platform, the small business
     lending marketplace offers financial institutions processing
@@ -373,16 +354,15 @@ be all the more really information driven associations.
     core systems, and integrates data from Experian, Transunion, Paynet,
     and LexisNexis.
 
--   [Finovate](https://finovate.com/fi-span-to-partner-with-jp-morgan-chase/),
-    > Vancouver-based FI.SPAN is a Cloud-based bank API services
-    > platform that leverages APIs to enable banks to offer a wide
-    > variety of new business banking products and services to their
-    > business customers. The company offers curated and pre-integrated
-    > third party fintech solutions that banks can use independently or
-    > integrated with their own technology.\" In December 2018, the
-    > company announced a \$4 million funding round and a partnership
-    > with JPMorgan Chase to help the bank develop pilot programs for
-    > the corporate treasurers of Chase's business banking customers.
+-   Finovate. Vancouver-based FI.SPAN is a Cloud-based bank API services
+    platform that leverages APIs to enable banks to offer a wide
+    variety of new business banking products and services to their
+    business customers. The company offers curated and pre-integrated
+    third party fintech solutions that banks can use independently or
+    integrated with their own technology.\" In December 2018, the
+    company announced a \$4 million funding round and a partnership
+    with JPMorgan Chase to help the bank develop pilot programs for
+    the corporate treasurers of Chase's business banking customers.
 
 -   Avoka. Acquired by Temenos in 2018, Avoka's Exchange™ is a catalog
     of pre-integrated applications that integrates pre-built connectors
@@ -410,10 +390,9 @@ be all the more really information driven associations.
 -   Plaid, a fintech company providing API technology layer for
     financial services that has been acquired by Visa in January 2020.
 
-> ![](media/image7.png){width="4.591666666666667in"
-> height="4.558333333333334in"}
->
-> Key risk being faced by nCino digital banking platform:
+![Finteh in Financial services](C:\Users\munir\Desktop\Assignments\Assignment\Picture7.jpg)
+
+Key risk being faced by nCino digital banking platform:
 
 -   Pe-dominantly cloud-based system and If the market for cloud-based
     banking technology develops more slowly then expected or changes in
@@ -474,7 +453,7 @@ be all the more really information driven associations.
 > providers to guide its future technology path and not disrupt the
 > existing financial services sector.
 
-I would have advised them of the following:
+We would have advised them of the following:
 
 -   Offer their service as a fully digital bank to provide banking as
     platform, as a service and payments as a service disrupting the
